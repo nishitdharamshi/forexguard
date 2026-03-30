@@ -1,8 +1,6 @@
-<<<<<<< HEAD
 # forexguard
 Real-Time User/Trader Anomaly Detection Engine
 =======
-# ForexGuard Prototype
 
 Student project for real-time anomaly detection in a forex platform using unsupervised ML.
 
@@ -142,4 +140,3 @@ docker-compose up --build
 - API: http://localhost:8000
 - MLflow: http://localhost:5000
 
->>>>>>> 223484a (Commit)
